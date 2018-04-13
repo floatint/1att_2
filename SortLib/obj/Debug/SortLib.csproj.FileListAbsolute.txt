@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\1att_2-master\SortLib\bin\Debug\SortLib.dll
+C:\Users\User\Desktop\1att_2-master\SortLib\bin\Debug\SortLib.pdb
+C:\Users\User\Desktop\1att_2-master\SortLib\obj\Debug\SortLib.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\1att_2-master\SortLib\obj\Debug\SortLib.dll
+C:\Users\User\Desktop\1att_2-master\SortLib\obj\Debug\SortLib.pdb
+C:\Users\User\Desktop\1att_2-master\SortLib\obj\Debug\SortLib.csprojResolveAssemblyReference.cache

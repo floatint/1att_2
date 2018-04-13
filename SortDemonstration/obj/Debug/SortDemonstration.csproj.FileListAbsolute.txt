@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\1att_2-master\SortDemonstration\bin\Debug\SortDemonstration.exe.config
+C:\Users\User\Desktop\1att_2-master\SortDemonstration\bin\Debug\SortDemonstration.exe
+C:\Users\User\Desktop\1att_2-master\SortDemonstration\bin\Debug\SortDemonstration.pdb
+C:\Users\User\Desktop\1att_2-master\SortDemonstration\obj\Debug\SortDemonstration.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\1att_2-master\SortDemonstration\obj\Debug\SortDemonstration.Properties.Resources.resources
+C:\Users\User\Desktop\1att_2-master\SortDemonstration\obj\Debug\SortDemonstration.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\1att_2-master\SortDemonstration\obj\Debug\SortDemonstration.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\1att_2-master\SortDemonstration\obj\Debug\SortDemonstration.exe
+C:\Users\User\Desktop\1att_2-master\SortDemonstration\obj\Debug\SortDemonstration.pdb
+C:\Users\User\Desktop\1att_2-master\SortDemonstration\obj\Debug\SortDemonstration.SortDemonstration.resources
+C:\Users\User\Desktop\1att_2-master\SortDemonstration\bin\Debug\SortLib.dll
+C:\Users\User\Desktop\1att_2-master\SortDemonstration\bin\Debug\SortLib.pdb

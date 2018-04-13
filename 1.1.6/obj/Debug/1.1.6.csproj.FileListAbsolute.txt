@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\1att_2-master\1.1.6\bin\Debug\1.1.6.exe.config
+C:\Users\User\Desktop\1att_2-master\1.1.6\bin\Debug\1.1.6.exe
+C:\Users\User\Desktop\1att_2-master\1.1.6\bin\Debug\1.1.6.pdb
+C:\Users\User\Desktop\1att_2-master\1.1.6\obj\Debug\1.1.6.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\1att_2-master\1.1.6\obj\Debug\_1._1._6.Properties.Resources.resources
+C:\Users\User\Desktop\1att_2-master\1.1.6\obj\Debug\1.1.6.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\1att_2-master\1.1.6\obj\Debug\1.1.6.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\1att_2-master\1.1.6\obj\Debug\1.1.6.exe
+C:\Users\User\Desktop\1att_2-master\1.1.6\obj\Debug\1.1.6.pdb
+C:\Users\User\Desktop\1att_2-master\1.1.6\bin\Debug\DataTypes.dll
+C:\Users\User\Desktop\1att_2-master\1.1.6\bin\Debug\DataTypes.pdb
+C:\Users\User\Desktop\1att_2-master\1.1.6\obj\Debug\_1._1._6.ListForm.resources
